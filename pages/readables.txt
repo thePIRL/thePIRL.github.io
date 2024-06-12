@@ -1,0 +1,60 @@
+
+<head>
+<title>thePIRL - Readables</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+<--! NAVIGATION MARKER -->
+<div id="books">
+<h1><u>Readables</u></h1>
+This page contains links to various resources on NMR, MRI, hyperpolarized gases and more. 
+
+
+
+<h1><u>MRI Books</u></h1>
+
+<column1><img src="http://static.lulu.com/browse/product_thumbnail.php?productId=22860713&resolution=320"></column1>
+<column2><a href="http://www.lulu.com/shop/dwight-nishimura/principles-of-magnetic-resonance-imaging/hardcover/product-22860713.html">Dwight Nishimura. Principles of Magnetic Resonance Imaging</a>. <br>
+Nishimura's text is an undergraduate-level MRI text which provides a solid mathematics and physics foundation for NRM/MRI, and goes into an appropriate amount of detail in each topic for a broad understanding of NMR/MRI. This is the textbook used in the undergraduate offering of the <a href="NMR.html">NMR/MRI course</a>.<br></column2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<column1><img src="thumbnails/callaghan.png"></column1>
+<column2>
+<a href="https://www.amazon.com/Principles-Nuclear-Magnetic-Resonance-Microscopy/dp/0198539975/ref=sr_1_2?ie=UTF8&qid=1533833184&sr=8-2&keywords=callaghan+mri">Paul Callaghan, Principles of Nuclear Magnetic Resonance Microscopy.</a> <br>
+Callaghan's text is approachable from nearly all scientific backgrounds and is the course textbook for Dr Thomen's <a href="NMR.html">NMR/MRI course</a>. It contains thorough descriptions of NMR physics mostly focusing on the semi-classical description. It has only cursory descriptions of the quantum picture of NMR, MRI physics, and k-Space.<br></column2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<column1><img src="https://media.wiley.com/product_data/coverImage300/52/04717208/0471720852.jpg"></column1>
+<column2><a href = "https://www.amazon.com/Magnetic-Resonance-Imaging-Physical-Principles/dp/0471720852/ref=sr_1_1?ie=UTF8&qid=1533833320&sr=8-1&keywords=haacke+mri&dpID=41RT2InwHEL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch">Robert Brown, et al. Magnetic Resonance Imaging: Physical Principles and Sequence Design 2nd Edition</a>  <br>Brown's MRI text in considered a staple of MRI laboratories and graduate courses in MRI. This text is the de facto reference text on MRI - and I do mean to emphasize that it is a <i>reference</i> text. While it is thorough, the student approaching NMR/MRI physics for the first time may find it overbearing..<br></column2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<column1><img src="https://images-na.ssl-images-amazon.com/images/I/41znnTKxc0L._SX326_BO1,204,203,200_.jpg"></column1>
+<column2><a href = "https://www.amazon.com/Handbook-Pulse-Sequences-Matt-Bernstein/dp/0120928612/ref=sr_1_1?ie=UTF8&qid=1533834124&sr=8-1&keywords=mri+pulse+sequences">Matt Bernstein, et al. Handbook of MRI Pulse Sequences</a>  <br> Although it's called a "handbook" making it seem like a mere reference text, one can learn a great deal about various MRI pulse sequences, rf and gradient shapes, and even basic Fourier Theory from this text. When interested in a particular branch of MRI pulse sequences, especially when reading a journal article which references the numerous acronyms which are thrown around in MR circles, this book should be the first stop.<br></column2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<column1><img src="https://images-na.ssl-images-amazon.com/images/I/41Vi4lSu62L._SX324_BO1,204,203,200_.jpg"></column1>
+<column2><a href = "https://www.amazon.com/Principles-Magnetic-Resonance-Springer-Solid-State/dp/3540501576">Charles Slichter, Principles of Magnetic Resonance.</a>  <br> As a physicist, this is my favorite text on NMR/MRI. This is because, the text is very readable and intuative for those who have a strong background in . The non-physicists may find this book difficult to follow, but I have yet to find a better and more succinct explanation of NMR quantum physics.<br></column2>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<p></p>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

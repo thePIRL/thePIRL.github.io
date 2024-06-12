@@ -1,0 +1,40 @@
+
+<head>
+<title>thePIRL - Projects</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+
+<--! NAVIGATION MARKER -->
+
+
+<div id="researchcontent">
+<h1>Active Projects in the PIRL</h1>
+This page highlights particular projects which are ongoing within the PIRL and the targeted outcomes. 
+
+
+<h2>Hyperpolarized Gas MRI</h2>
+<p>One of the fundamental limitations of MRI is that a very small percentage of atomic nuclei actually participate in delivering a detectable NMR signal. The fration of spins which participate in the NMR phenomenon is called 'polarization' and even at the very high magnetic fields of most clinical scanners (a few Tesla), only a few spins per million contribute to the NMR signal (i.e., polarizations on order P~0.000001). However, thanks to some clever spin exchanges techniques from atomic physics, the nuclear polarization of some noble gases (<sup>3</sup>He and <sup>129</sup>Xe) can be dramatically increased <i>in vitro</i> to order of P~0.1 - nearly 100,000x higher. This increase in nuclear magnetic moment is so high that even these gases can be imaged in spite of their low volume density. Further, because these are noble gases, they are chemicaly inert and can be safely inhaled by a subject in the MR scanner. During a single breathold, the gas can be imaged as it is disributed throughout the subjects lungs providing a picture of pulmonary function. </p>
+
+
+<p align="center"><iframe width="600" height="335" src="https://www.youtube.com/embed/qiAcSHGYggU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
+
+<h2>HeartSpeed: Fast Cardiac MRIs with the Freedom to Breathe</h2>
+<p>A cardiac MRI generally involves nearly 20-30 individual heart image acquisitions during an approximately 10-15 second breathold by the patient. In between each scan the patient is allowed to catch his/her breath for the next scan. This process is arduous for the patient but is necessary since cardiac MRI are very susceptible to artifacts from breathing motion. The goal of the HeartSpeed project is to eliminate the need for breatholding and simply remove the breathing motion retroactively. Dr. Steve Van Doren recently received a Coulter Award for this proposal.</p>
+
+<p align="center"><iframe width="600" height="335" src="https://www.youtube.com/embed/2hJ-E62YTjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></a>
+
+
+
+
+</div>
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

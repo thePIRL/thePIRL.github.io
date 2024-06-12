@@ -1,0 +1,41 @@
+
+<head>
+<title>thePIRL - Presentations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+<--! NAVIGATION MARKER -->
+
+<div id="researchcontent">
+<h1>Presentations, Abstracts, and other Publications</h1>
+
+<li></li>
+
+<li>RP Thomen, LL Walkup, DJ Roach, NS Higano, ZI Clevelend, A Schapiro, A Brody, JP Clancy, JC Woods. Hyperpolarized 129Xe gas and ultra-short echo MRI for evaluation of structure-function correlates in cystic fibrosis lung disease: a comparison of analysis methods. Poster Presentation to be given at the International Society for Magnetic Resonance in Medicine, June 2018, Paris, France. </li>
+
+<li>RP Thomen, LL Walkup, DJ Roach, NS Higano, ZI Cleveland, A Schapiro, JP Clancy, JC Woods. Investigation of Structure-Function Relationships in Cystic Fibrosis Lung Disease Using Hyperpolarized Xenon and Ultra-Short Echo MRI. Poster Discussion Session given at American Thoracic Society International Conference, May 2018, San Diego, CA</li>
+
+
+<li>Robert P Thomen, “Translation of 129Xe MRI: How much more evidence do we need?” Speaker for the ISMRM Hyperpolarized Media MR Study Group. Online Webinar, April 19, 2018</li>
+
+<li>Robert P Thomen, “Methods for physiologically relevant signal quantification in HP 129Xe ventilation imaging.” Battle of the Vents: Quantitative 129Xe Ventilation. Invited talk at 3rd Annual 129Xe Clinical Trials Consortium Meeting, Anna Maria Island, Florida. Jan 18, 2018</li>
+
+<li>Robert P Thomen, “MRI of Lung: Emerging Clinical Applications.” Invited lecture for Neosho County Medical Society Meeting, Chanute, KS. October 19, 2017</li>
+
+<li>Robert P Thomen, “Show Me Missouri – Seeing in CF.” Invited lecture for Cystic Fibrosis Association of Missouri Support Group Meeting, Cuba, MO. October 14, 2017</li>
+
+
+
+
+
+</div>
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

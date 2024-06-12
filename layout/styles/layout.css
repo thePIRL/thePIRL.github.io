@@ -1,0 +1,158 @@
+@charset "utf-8";
+@import url("forms.css");
+@import url("tables.css");
+@charset "utf-8";
+
+html{overflow-y:scroll;}
+body{margin:20px; padding:0; font-size:13px; font-family:  verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; background-color:#EEEEEE;line-height:1.8em;}
+
+.justify{text-align:justify;}
+.bold{font-weight:bold;}
+.center{text-align:center;}
+.right{text-align:right;}
+.nostart{margin:0; padding:0; list-style-type:none;}
+
+.clear{clear:both;}
+br.clear{clear:both; margin-top:-15px;}
+
+a{outline:none; text-decoration:none;}
+
+.fl_left, .imgl{float:left;}
+.fl_right, .imgr{float:right;}
+
+img{display:block; margin:0; padding:0; border:0;}
+.imgl, .imgr{border:1px solid #DFDFDF; padding:5px; color:#666666; background-color:#FFFFFF;}
+.imgl{margin:0 8px 8px 0; clear:left;}
+.imgr{margin:0 0 8px 8px; clear:right;}
+
+/* ---------------------------- Navigation Bar --------------------------------- */
+#topnav{display:block; float:left; width:1000px; margin:0px; padding-left:150px; list-style:none; font-size:15px; font-weight:normal; font-family:Verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; background-color:#333333;}
+#topnav ul, #topnav li{float:left; list-style:none; margin:0; padding:0px;}
+#topnav li a:link, #topnav li a:visited, #topnav li a:hover{display:block; margin:0; padding:15px 20px; color:#FFFFFF; background-color:#333333;}
+#topnav ul ul li a:link, #topnav ul ul li a:visited{border:none;}
+#topnav li.last a{margin-right:0;}
+#topnav li a:hover, #topnav ul li.active a{color:#FFFFFF; background-color:#0079a9;}
+#topnav li li a:link, #topnav li li a:visited{width:150px; float:none; margin:0; padding:7px 10px; font-size:12px; font-weight:normal; color:#FFFFFF; background-color:#333333;}
+#topnav li li a:hover{color:#FFFFFF; background-color:#0079a9;}
+#topnav li ul{background:#FFFFFF; z-index:9999; position:absolute; left:-999em; height:auto; width:100px; border-left:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF;}
+#topnav li ul a{width:140px;}
+#topnav li ul ul{margin:-32px 0 0 0;}
+#topnav li:hover ul ul{left:-999em;}
+#topnav li:hover ul, #topnav li li:hover ul{left:auto;}
+#topnav li:hover{position:static;}
+#topnav li.last a{margin-right:0;}
+
+
+
+
+
+/* ----------------------------------------------Wrapper------------------------------------- */
+
+div.wrapper{display:block;  width:100%; margin:0; text-align:left;}
+.col1{color:#EEEEEE; background-color:#0079a9;} /* Banner */
+.col2{color:#000000; background-color:#333333; }
+.col3{color:#333333; background-color:#EEEEEE;}
+
+.col7 a{color:#FFFFFF; background-color:#333333;}/* Copyright */
+
+
+
+
+/* ----------------------------------------------Home Content------------------------------------- */
+
+#homecontent{padding-left:150px; padding-top:20px; width:65%;  line-height:1.6em; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#homecontent h1{font-size:28px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#homecontent p{padding-left:20px; padding-right:5px;}
+#homecontent news{margin-left:20px; margin-bottom:20px; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#homecontent date{margin-left:20px; font-weight:bold; font-size:14; padding-right:5px;}
+#homecontent h3{font-size:22px; text-align:center; margin-left:100px; margin-right:100px; padding-top:5px; padding-bottom:5px; font-family:garamond, verdana, Arial, Helvetica, sans-serif; background-color:#DDE;line-height:1.2em;}
+#homecontent img{font-size:25px; text-align:center; padding-bottom:0px; margin-left:20px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#homecontent a{color:#00F;}
+
+#sidebar{ float:right; width:20%; padding-top:20px; padding-right:50px; padding-left:50px; line-height:0.9em;  color:#333333; background-color:#EEE;}
+#sidebar img{font-size:25px; text-align:left; padding-bottom:0px; margin-left:20px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#sidebar h1{font-size:22px; text-align:left; line-height:0.9em; padding-bottom:0px; margin-left:20px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#sidebar h2{font-size:12px; text-align:left; padding-top:0px; margin-left:20px;  font-family: garamond, verdana, Arial, Helvetica, sans-serif;}
+#sidebar h3{font-size:14px; text-align:left; padding-top:0px; margin-left:20px;  font-family: garamond, verdana, Arial, Helvetica, sans-serif;}
+#sidebar p{padding:0px;}
+#sidebar doof{margin-left:20px;}
+#sidebar a{color:#00F;}
+#adContainer{ font-size:16px; text-align:left; padding-bottom:0px; margin-left:20px;  line-height:1.1em; font-family: garamond, verdana, Arial, Helvetica, sans-serif;}
+
+
+/* ----------------------------------------------Research Content------------------------------------- */
+
+#researchcontent{padding-left:150px; padding-top:20px; width:65%;  line-height:1.6em; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#researchcontent p{padding-left:20px; padding-right:5px;}
+#researchcontent h1{font-size:28px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#researchcontent h2{font-size:20px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#researchcontent h3{font-size:27px; text-align:center; padding:10px; font-family:garamond, verdana, Arial, Helvetica, sans-serif; background-color:#DDD;}
+#researchcontent li{display:block; margin:0; padding:15px 20px;}
+#researchcontent li a{color:#0000FF; text-decoration: underline;}
+#researchcontent a{color:#00F;}
+
+/* ----------------------------------------------Personnel Content------------------------------------- */
+#person{padding-left:150px; padding-top:20px; width:65%;  line-height:0.9em; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#person img{display:block; padding:10px; float:left; width=150px;}
+#person h0{font-size:25px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#person h1{font-size:28px;  padding-left:5px; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#person h2{font-size:17px;  padding-left:5px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#person p{line-height:1.6em;}
+#person bar{color:#EEE; border-top:1px dotted #CCCCCC;}
+
+/* ----------------------------------------------Resources Content------------------------------------- */
+/* Create three equal columns that floats next to each other */
+#resources{padding-left:150px; padding-top:20px; width:65%; color:#333333; background-color:#EEEEEE; display:block; position:relative; line-height:1.6em;}
+#resources h1{font-size:28px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#resources h2{text-align:center; font-size:22px;  padding-bottom:0px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#resources p{padding-left:20px; padding-right:5px;}
+#resources news{margin-left:20px; margin-bottom:20px; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#resources name{margin-left:20px; font-weight:bold; font-size:14; padding-right:5px;}
+#resources h3{font-size:13px; text-align:center; padding:10px; font-family:garamond, verdana, Arial, Helvetica, sans-serif; background-color:#DDD;}
+#resources a{color:#00F;}
+#resources img{float:left; height:18px; margin-left:-84px; font-weight:bold; font-size:14; padding-right:5px;}
+#resources column {float: left;width: 30%;padding: 10px;}
+#resources row:after{content:"";display:table;clear:both;}
+
+#books{padding-left:150px; padding-top:20px; width:65%; color:#333333; background-color:#EEEEEE; display:block; position:relative; line-height:1.6em;}
+#books h1{font-size:28px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#books h2{text-align:center; font-size:22px;  padding-bottom:0px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#books img{float:left; width:180px; margin-left:0px; font-weight:bold; font-size:14; padding-right:5px;}
+#books column1 {float: left;width: 20%;padding-bottom: 50px;}
+#books row:after{content:"";display:table;clear:both;padding-bottom: 50px;}
+#books column2 {float: left;width: 70%;padding-bottom: 50px;}
+#books row:after{content:"";display:table;clear:both;padding-bottom: 50px;}
+#books a{color:#00F;}
+
+/* ----------------------------------------------Software Content------------------------------------- */
+#software{padding-left:150px; padding-top:20px; width:65%; color:#333333; background-color:#EEEEEE; display:block; position:relative; line-height:1.6em;}
+#software h1{font-size:28px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#software h2{text-align:center; font-size:22px;  padding-bottom:0px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#software p{padding-left:20px; padding-right:5px; margin-left: 8em; text-indent: -8em}
+#software news{margin-left:20px; margin-bottom:20px; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#software name{margin-left:20px; font-weight:bold; font-size:14; padding-right:5px;}
+#software h3{font-size:13px; text-align:center; padding:10px; font-family:garamond, verdana, Arial, Helvetica, sans-serif; background-color:#DDD;}
+#software a{color:#00F;}
+#software img{float:left; height:18px; margin-left:-84px; font-weight:bold; font-size:14; padding-right:5px;}
+
+
+
+
+
+/* ----------------------------------------------Gallery Content------------------------------------- */
+#gallery{padding-left:150px; padding-top:20px; width:65%;  line-height:0.9em; color:#333333; background-color:#EEEEEE; display:block; position:relative;}
+#gallery img{display:block; width=300px; padding-left:50px; float:center; }
+#gallery h0{font-size:25px;  padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#gallery h1{font-size:28px;  float:center; padding-bottom:0px; border-bottom:1px dotted #CCCCCC; font-family:garamond, verdana, Arial, Helvetica, sans-serif;}
+#gallery h2{font-size:17px;  padding-left:5px;  font-family:garamond, verdana, Arial, Helvetica, sans-serif; float:center;}
+#gallery p{line-height:1.6em;}
+#gallery bar{color:#EEE; border-top:1px dotted #CCCCCC;}
+
+
+
+
+/* ----------------------------------------------Copyright------------------------------------- */
+
+#copyright{width:100%; padding-top:10px; padding-bottom:10px;text-align:center; bottom:0; float:left;color:#FFFFFF; background-color:#333333;}
+#copyright p{text-align:right; bottom:0; float:right; color:#FFFFFF; background-color:#333333;}
+#copyright a{width:150px; float:none; margin:0; padding:7px 10px; font-size:12px; font-weight:normal; color:#FFFFFF; background-color:#333333;}

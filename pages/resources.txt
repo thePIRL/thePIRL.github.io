@@ -1,0 +1,45 @@
+
+<head>
+<title>thePIRL - Resources</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+<--! NAVIGATION MARKER -->
+
+
+
+<div id="resources">
+<h1>Resources</h1>
+<p>This page contains links to some valuable resources for those interested in learning more about the work as well as incoming students looking for the necessary background material and skills needed to contribute to the group. This includes useful reading materials (books, articles, etc.), lists of software commonly used in the lab, tutorials for various lab operations, and more.</p>
+
+
+
+<column>
+<h2><a href="readables.html">Readables</a></h2>
+This page contains links to various books, journal articles, and dissertations which the student can reference to learn more about the research. 
+</column>
+
+<column>
+<h2><a href="software.html">Software List</a></h2>
+Many different software platforms and programming languages are used in the PIRL. This page lists some of the most useful softwares for programming, typesetting, graphic design, and other utilies which we commonly use in the lab. Links to safe sites for download are also given as well as tutorials for getting started with certain platforms.
+</column>
+
+<column>
+<h2><a href="tutorials.html">Tutorials</a></h2>
+This page contains links to some valuable resources for those interested in learning more about the work as well as incoming students looking for the necessary background material and skills needed to contribute to the group. This includes useful reading materials (books, articles, etc.), lists of software commonly used in the lab, tutorials for various lab operations, and more.
+</column>
+
+</div>
+
+
+
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

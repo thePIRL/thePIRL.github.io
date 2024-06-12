@@ -1,0 +1,256 @@
+
+<head>
+<title>thePIRL - Software</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+
+<div id="wrapper col1">
+<a href="index.html"><img src="rect823.png" align="center" width=100% /></a>
+</div>
+
+
+
+<div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="research.html">Research</a>
+           <ul>
+            <li><a href="research.html">Overview</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="presentations.html">Presentations</a></li>
+          </ul>
+        </li>
+        <li><a href="personnel.html">Personnel</a></li>
+        <li><a href="resources.html">Resources</a>
+          <ul>
+            <li><a href="readables.html">Readables</a></li>
+            <li><a href="software.html">Software</a></li>
+          </ul>
+        </li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li class="last"><a href="othersciencestuff.html">Other Science Stuff</a></li>
+      </ul>
+    </div>
+       <br class="clear" />
+  </div>
+</div>
+
+<div id="sidebar">
+
+
+
+
+<h1>Recommended Video</h1>
+<div class="w3-content w3-section" style="max-width:500px">
+  <a href="https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" target="_blank"><img class="myThumbnails" src="thumbnails/1.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU" target="_blank"><img class="myThumbnails" src="thumbnails/2.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi" target="_blank"><img class="myThumbnails" src="thumbnails/3.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=KdYlvGmZB3I&t" target="_blank"><img class="myThumbnails" src="thumbnails/higano.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=hSvSUX-tqBo" target="_blank"><img class="myThumbnails" src="thumbnails/mugler.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=JOaNvzwvuSs" target="_blank"><img class="myThumbnails" src="thumbnails/sarah.png" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=bHZsvBdUC2I" target="_blank"><img class="myThumbnails" src="https://i.ytimg.com/vi/bHZsvBdUC2I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDZzVSFeu7iUVdEdl9n-lOdJ1EYfw" style="height:170px"></a>
+  <a href="https://www.youtube.com/watch?v=Cqt4LjHnMEA" target="_blank"><img class="myThumbnails" src="https://i.ytimg.com/vi/Cqt4LjHnMEA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDuJpMrrbxwLhJEmmxeEkx9V4MNeA" style="height:170px"></a>
+<a href="https://youtu.be/qiAcSHGYggU" target="_blank"><img class="myThumbnails" src="thumbnails/amamr.png" style="height:170px"></a>
+<a href="https://www.youtube.com/embed/TQegSF4ZiIQ" target="_blank"><img class="myThumbnails" src="thumbnails/MRI1.png" style="height:170px"></a>
+<a href="https://www.youtube.com/watch?v=HMtkg2yshFY" target="_blank"><img class="myThumbnails" src="https://i.ytimg.com/vi/HMtkg2yshFY/sddefault.jpg" style="height:170px"></a>
+<a href="https://www.youtube.com/watch?v=T647CGsuOVU" target="_blank"><img class="myThumbnails" src="thumbnails/welch.png" style="height:170px"></a>
+<a href="https://www.youtube.com/watch?v=2hJ-E62YTjg" target="_blank"><img class="myThumbnails" src="https://i.ytimg.com/vi/2hJ-E62YTjg/hqdefault.jpg" style="height:170px"></a>
+<a href="https://www.youtube.com/watch?v=eehsgyvm0SQ" target="_blank"><img class="myThumbnails" src="https://i.ytimg.com/vi/eehsgyvm0SQ/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCMqgaYgV9ppLlx__LwQ93P_pFsYg" style="height:170px"></a>
+
+</div>
+<script>
+var myIndexThumbs = 0;
+carouselThumbs();
+
+function carouselThumbs() {
+    var i;
+    var x = document.getElementsByClassName("myThumbnails");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    myIndexThumbs = Math.floor(Math.random() * x.length) + 1;
+    if (myIndexThumbs > x.length) {myIndexThumbs = 1}    
+    x[myIndexThumbs-1].style.display = "block";  
+    setTimeout(carousel, 1000); // Change image every 2 seconds
+}
+</script>
+
+<br>
+<h1>Recommended Article</h1>
+<p id="adContainer"></p>
+    <script>
+      var adverts = [
+        {
+          text: "<b>S Kruger, <i>et al.</i></b> Functional Imaging of the Lungs With Gas Agents, <i>J Magn Reson Imaging.</i> 2016",
+          url: "https://www.ncbi.nlm.nih.gov/pubmed/26218920"
+        },
+        {
+          text: "<b>R Thomen, <i>et al.</i></b> Hyperpolarized <sup>129</sup>Xe for investigation of mild cystic fibrosis lung disease in pediatric patients, <i>J Cyst Fibros.</i> 2017",
+          url: "https://www.ncbi.nlm.nih.gov/pubmed/27477942"
+        },
+        {
+          text: "<b>G Santyr, <i>et al.</i></b> Hyperpolarized Gas Magnetic Resonance Imaging of Pediatric Cystic Fibrosis Lung Disease, <i>J Acad Radiol.</i> 2018",
+          url: "https://www.sciencedirect.com/science/article/pii/S1076633218302708"
+        },
+        {
+          text: "<b>J Leawoods, <i>et al.</i></b> Hyperpolarized 3He Gas Production and MR Imaging of the Lung, <i>Concepts Magn Reson.</i> 2001",
+          url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/cmr.1014"
+        },
+      ],
+      adContainer = document.getElementById("adContainer"),
+      advert = adverts[Math.floor(Math.random()*adverts.length)],
+      link = document.createElement("a");
+
+      link.setAttribute("href", advert.url);
+      link.setAttribute("target", "blank");
+      link.innerHTML = advert.text;
+      adContainer.appendChild(link);
+    </script>
+
+<br>
+<h1>Collaborators</h1>
+<h3><a href="https://cpir.cchmc.org/XeMRICTC"><sup>129</sup>Xe Clinical Trials Consortium</a></h3>
+<h3><a href="https://biochem.missouri.edu/faculty/faculty-members/vandorens/index.php">Biochemistry</a></h3>
+<h3><a href="https://healthprofessions.missouri.edu/physical-therapy-program/personnel/trent-m-guess/">Physical Therapy</a></h3>
+<h3><a href="https://cpir.cchmc.org/">Cincinnati Children's Pulmonary Imaging</a></h3>
+<h3><a href="https://pulmonary.wustl.edu/faculty/mario-castro-md/">Washington University Pulmonary Medicine</a></h3>
+
+<br>
+<doof><a class="twitter-timeline" data-height="400px" href="https://twitter.com/mumedicine?ref_src=twsrc%5Etfw">Tweets by Mu Medicine</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></doof>
+
+
+<br>
+<h1>Adventures</h1>
+<div class="w3-content w3-section" style="max-width:500px"><a href="gallery.html">
+  <img class="mySlides" src="photos/2.jpg" style="height:200px">
+  <img class="mySlides" src="photos/3.jpg" style="height:200px">
+  <img class="mySlides" src="photos/4.jpg" style="height:200px">
+  <img class="mySlides" src="photos/5.jpg" style="height:200px">
+  <img class="mySlides" src="photos/6.jpg" style="height:200px">
+  <img class="mySlides" src="photos/7.jpg" style="height:200px">
+  <img class="mySlides" src="photos/8.jpg" style="height:200px">
+  <img class="mySlides" src="photos/9.jpg" style="height:200px">
+  <img class="mySlides" src="photos/10.jpg" style="height:200px">
+  <img class="mySlides" src="photos/11.jpg" style="height:200px">
+  <img class="mySlides" src="photos/12.jpg" style="height:200px">
+  <img class="mySlides" src="photos/13.jpg" style="height:200px">
+</a></div>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    myIndex = Math.floor(Math.random() * x.length) + 1;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4000); // Change image every 2 seconds
+}
+</script>
+
+<br>
+<h1>Links</h1>
+<h3><a href="research.html">Research Overview</a></h3>
+<h3><a href="personnel.html">Research Team</a></h3>
+<p></p>
+</div>
+
+
+
+<div id="software">
+<h1>List of Commonly-Used Software in the PIRL</h1>
+Computer programming and a working knowledge of ubiquitous computer applications are some of the most valuable skills in today's workforce. In particular for medical imaging, the ability to program imaging sequences, perform quantitative analysis of images, and effectively and attractively present a plausible hypothesis with sound data is paramount. Below are listed some of the most commonly-used computer softwares which we employ in the imaging research lab. Learning a new programming language can have a steep learning curve, especially if it's your first language, but it will add great value to your profesional arsenal as well as to the lab.
+
+<h2><u>Programming Languages and Compilers</u></h2>
+<p><name><a href="https://www.mathworks.com/products/matlab.html">MatLab</a></name> - The 'matrix laboratory' is a staple of many labs around the world as it has some of the most powerful packages for dealing with matrices, large datasets, and advanced plotting features. For MU students and faculty, MatLab is available for <i>free</i> via <a href="https://doit.missouri.edu/services/software/software-anywhere/">Software Anywhere</a> (which requires VMware Horizon Client), and/or through the <a href="https://doit.missouri.edu/services/research/high-performance-computing/">Lewis Cluster</a>, although not all packages are available by these means.
+
+<p><name><a href="https://www.r-project.org/">R</a></name> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- R is a statistical computing environment which employs a MatLab-like programming syntax. It is most well known for its vast library of statistics function, but it can also be used for image processing. It is <i>free</i> and open-source and is used heavily in the medical imaging lab as a friendly MatLab surrogate. <a href="https://www.youtube.com/watch?v=HMtkg2yshFY">Click here</a> for an introduction to programming with R in the PIRL.
+
+<p align="center"><iframe width="600" height="335" src="https://www.youtube.com/embed/HMtkg2yshFY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+<p><name><a href="https://www.python.org/">Python</a></name> - Python is a versatile and syntax-friendly programming language recently ranked as <a href="https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017">the most popular programming language of 2017</a>. Its versatility as a language led to its implimentation as the choice GPIO communication protocol for the <a href="https://www.raspberrypi.org/">Raspberry PI</a> micro-computers.
+
+<p><name><a href="https://sourceforge.net/projects/orwelldevcpp/">Dev C++</a></name> - C/C++ are among the most popular open-source programming languages. It has recently usurped assembly languages for programming micro-controllers and prototyping boards due to its minimal real-estate in memory. Dev C++ is an easy-to-use front-end compiler for C/C++ languages. Further, C languages are gradually overtaking assembly and BASIC as the primary programming language for microcontrollers.
+
+
+
+
+<h2><u>Word Processing and Manuscript Preparation</u></h2>
+
+<p><name><a href="https://www.office.com/">MicroSoft Office</a></name> - We use the Microsoft Office Suite extensively for our work including Word (doc and docx formats), Excel (xls and cvs formats), Powerpoint (ppt and pptx), and Outlook. Mizzou students can get Office for <i>free</i> <a href="https://doit.missouri.edu/services/software/software-sales/microsoft-applications/">here.</a> ($10 for faculty and staff). Truly no other open source alternative (<a href="https://www.openoffice.org/">OpenOffice</a>, <a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="http://www.kingsoftstore.com/">Kingsoft Offce</a>, etc.) can do what Microsoft Office can, and proficiency with MS Office is generally considered non-negotiable skill for nearly every profession. That said, something MS Office does <i>not</i> do very well in my opinion is render equations with an aesthetic, professional quality. For equations, I recommend LaTeX as described below.</p> 
+
+
+<p><name><a href="https://endnote.com/">EndNote</a></name> - When writing papers and manuscripts, keeping track of citations and organizing a bibliography is made much easier using EndNote which keeps a library of all works cited and automatically organizes citations within the text.</p>
+
+
+<p><name><img src="LaTeX_Logo.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</name> -  LaTeX (pronounced 'LAY-Tek') is a document formatting system based on the TeX typesetting language. See <a href="Thomen_PhD_Dissertation.pdf">Dr Thomen's Dissertation</a> for an example of a document made using LaTeX. TeX is particularly good at rendering mathematics and equations with professional quality. In order to use LaTeX, you must first download a TeX implementation such as <a href="https://miktex.org/">MiKTeX</a>, then a TeX front-end compiler such as <a href="https://www.tug.org/texworks/">TeXworks</a> to write and compile your document. <b>Note:</b> LaTeX is <b>not</b> recommended for documents which you intent to distribute to colleagues for edits/review; stick to MS Word for this. You can also add TeX to powerpoint documents using a powerpoint add-in such as <a href="http://www.jonathanleroux.org/software/iguanatex/">IguanaTeX</a>. In order to use IguanaTeX, you must download/install <a href="https://www.ghostscript.com/index.html">Ghostscript</a> to interpret the postscript language, and <a href="http://www.imagemagick.org/script/index.php">Imagemagick</a> to convert rendered images. If you don't want to install LaTeX locally, but still want to produce LaTeX-quality equations, you can use an <a href="http://www.tlhiv.org/ltxpreview/">online TeX compiler</a> to render equations as images to download/CopyPaste into projects.</p>
+
+
+
+<h2><u>Image Viewers and Graphics Editors</u></h2>
+
+<p><name><a href="https://imagej.nih.gov/ij/">ImageJ</a></name> - ImageJ is a <i>free</i> Java-based image viewer and analysis program developed by Wayne Rasband at the <a href="https://www.nih.gov/">NIH</a>. It is perfect for quick viewing of imaging datasets and simple image analysis. Requires the Java Runtime which can be downloaded <a href="https://ninite.com/">here</a>.</p>
+
+<p><name><a href="https://www.gimp.org/">GIMP</a></name>&nbsp;&nbsp;&nbsp; - The GNU Image Manipulation Program is a raster graphics editor - effectively a free, open-source Adobe Photoshop. It is very useful for creating and editing images for aesthetic scientific figures (note: be judicious and careful about altering images for publication as this can be construed as falsification of data if altered images are presented as raw data).</p>
+
+<p><name><a href="https://inkscape.org/en/">Inkscape</a></name> - Inkscape is a vector graphis editor - effectively a free, open-source Adobe Illustrator. It is very useful for creating figures and cartoons for papers and presentations. Unlike raster graphics in which image information is recorded pixel-by-pixel, vector graphics are rendered in real-time according to an xml-based script allowing them to be scaled and edited easily without compromising image quality.</p>
+
+<p><name><a href="https://www.blender.org/">Blender</a></name> - Blender is a free, open-source, python-based 3D animation software. I use blender often to create 3D animated gifs for use in presentations to communicate ideas which cannot be easily drawn in powerpoint or on a blackboard.</p>
+
+<p><name><a href="https://www.sketchup.com/">SketchUp</a></name> - Sketchup is a free 3D CAD software which can be used to create 3D models for machining reference or 3D printing.
+
+
+
+<h2><u>Audio and Video</u></h2>
+
+<p><name><a href="https://www.videolan.org/vlc/index.html">VLC Media Player</a></name> - VLC is a free, open-source video/media player. It supports nearly every video format, is available on all OS platforms and can be used to stream, edit, and convert video and audio.</p>
+
+<p><name><a href="http://camstudio.org/">Cam Studio</a></name> - In my experience, one of the best ways to teach others how to perform computational tasks is simply to make a tutorial video. Cam Studio allows you to record a video of your computer screen which you can share with others.</p>
+
+<p><name><a href="https://www.audacityteam.org/">Audacity</a></name> - Although our lab doesn't do much audio processing/sequencing, if/when these needs arise Audacity is a user-friendly multi-track audio editor with numerous effects and analysis algorithms.
+
+
+
+
+<h2><u>Utilities</u></h2>
+
+<p><name><a href="http://www.box.com">Box</a></name>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Cloud-based file storage. All MU students/faculty should have a box account by default. Note that MU prohibits installation of non-Box cloud storage platforms (such as <b>Dropbox</b>) on MU host computers; hence, it is beneficial for students to make Box their default cloud storage.</p>
+
+<p><name><a href="https://winscp.net/eng/docs/introduction">WinSCP</a></name> - WinSCP is sn SFPT client for remote and local file transfer.</p>
+
+<p><name><a href="https://www.teamviewer.us/">Teamviewer</a></name> - Teamviewer is a user-friendly remote desktop connection software.</p>
+
+<p><name><a href="https://www.microsoft.com/en-us/download/details.aspx?id=15155">SyncToy</a></name> - The importance of data backups cannot be stressed enough. SyncToy is a simple file-syncing utility which can be programmed to run automatically as needed. For computers attached to the MU network however, each users 'My Documents' folder is automatically backed up to the MU mainframe. But it is still advisable to always have data in more than one location.
+
+<p><name><a href="http://www.ninite.com">7zip</a></name>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - This is (imho) the best file compressor/archiver; much more friendly than WinRAR or WinZip.
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+
+<head>
+<title>thePIRL - Other</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+<--! NAVIGATION MARKER -->
+
+
+
+<div id="software">
+<h1>Other Science Stuff</h1>
+This majority of this webpage is focused on the particular research interests of pulmonary imaging. This page contains resources which relate to the broader topics of the philosophy of science and clinical research in general. Not all scientists need to know how gases are hyperpolarized they should know how to form a testable hypothesis. Not all scientists need to know what to look for in a brain MRI, but all should know what p<0.05 means (and no, it does not mean that the hypothesis is confirmed). Scientists need not agree or accept arguments which are unscientific, but they must be prepared to discuss and present scientific evidence with gentleness and respect (many scientists are still learning this). Here are some such resources for the interested budding scientist.
+
+
+
+<h2><u>MRI Resources</u></h2>
+<p><name><a href="http://www.mriquestions.com/index.html">MRIQuestions.com</a></name> - An excellent website describing nearly every facet of NMR and MRI in easy-to-understand prose. An undergraduate course in MRI could probably be taught using only this website as a resource (though its articles are a bit too cursory for graduate-level work). If you need a overview of any sub-field of MRI this is a good first place to start.
+
+<h2><u>Coding Resources</u></h2>
+<p><name><a href="https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf">R Cheat Sheet</a></name> - PDF printout of useful operations in R.
+
+<p><name><a href="https://coderbyte.com/">CoderByte</a></name> - The best way to learn how to code is simply to do it. CoderByte is a website which contains coding challenges to help improve your skills. 
+
+<h2><u>Science Philosophy and Scientific Method Resources</u></h2>
+<p><name><a href="https://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108#.W3xFDeg2qM8">ASA Statment on p-Values</a></name> - P-values are ubiquitous in scientific literature because it expresses the probability that a NULL hypothesis is true. While many students are taught that it is important to calculate and include p-values as a definitive statistical test, few seem to know what exactly it tells the audience. P-value can even be calculated incorrectly to indicate significance in insigificant results - so-called <a href="https://theness.com/neurologicablog/index.php/p-hacking-and-other-statistical-sins/">p-hacking</a>. Part of being a good scientists is to recognize proper and improper use of analysis methods, and the ASA's statement is helpful in this regard.
+
+<p><name><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2655246">JAMA Statement on Medical Overuse</a></name> - This JAMA article is a systematic review of the 10 most overused diagnostic tests in medicine. We do research in medical imaging, therefore we see medical imaging as a great tool to address medical maladies. But it is always the best (and cheapest) option? This question is always important to keep in mind when designing your research (your grant study section will be there to remind you lest you forget).
+
+<p><name><a href="http://www.u.arizona.edu/~jharwood/pdf/GSA%20Communication%20with%20older%20adults%20--%20recognizing%20hidden%20traps.pdf">Hidden Traps in HealthCare Decision Making</a></name> - This pamphlet, though focused on geriatric medicine in particular, is an excellent overview of common biases which healthcare providers are exposed to and how to avoid them in clinical practice.
+
+<p><name><a href="http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf">Why most published research studies are false</a></name> - An insightful article dealing with common problems in peer-reviewed science including inherent researcher bias, poor hypotheses, underpowered studies, incorrect analysis, etc. 
+
+<p><name><a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005738">How Many Scientists Fabricate and Falsify Research?</a></name> - Any action which compromises the integrity of scientific research is considered scientific misconduct. It can generally be boiled down to three mortal sins: fabrication (making up data), falsification (unfairly manipulating data), and plagarism (appropriating someone else's ideas or data). How often does this actually happen? This article attempts to answer this question through a meta-analysis of survey data.
+
+<p><name><a href="https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf">Valve New Employee Handbook</a></name> - Are you a valuable worker? How do you know? Valve is one of the most successful video game companies, and this is their operation model in a nutshell. Though not strictly scientific, it provides a very useful model of what makes an employee valuable to an employer. This is divided into 4 metrics: skill level (how difficult of a problem can you solve?), productivity (how much content do you create?), group contribution (how much do you contribute to the team as a whole?), and product contribution (what do you contribute to the broader scope of the brand). 
+
+
+
+<h2><u>Science Websites, Blogs, and Podcasts</u></h2>
+<p><name><a href="https://theness.com/neurologicablog/">NeuroLogica Blog</a></name> - Dr Steven Novella is a premier advocate of critical thinking, scientific skepticism, and science-based medicine. His blog contains excellent commentaries on new scientific discoveries and public knowledge on scientific topics.
+
+
+<h2><u>YouTube Channels and Videos</u></h2>
+<p><name><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3 Blue 1 Brown</a></name> - One of the best math channels on Youtube, 3 Blue 1 Brown videos attempt to make complicated math topics intuative using clever, visually-impressive, animations. In particular, his series on <a href="https://www.youtube.com/watchv=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Linear Algebra</a> is excellent.
+
+<p><name><a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">Crash Course</a></name> - This channel covers myriad topics in science and medicine, but also in literature, philosophy, and many others. Their videos are easy to understand and provide an excellent overview of complex disciplines. I recommend the <a href="https://www.youtube.com/watch?v=uBGl2BujkPQ&list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8">Anatomy and Physiology</a> series - in particular the individual lessons on <a href="https://www.youtube.com/watch?v=bHZsvBdUC2I&list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8&index=31">lungs</a> and <a href="https://www.youtube.com/watch?v=Cqt4LjHnMEA&list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8&index=32">gas exchange</a>.
+
+<p><name><a href="https://www.youtube.com/user/minutephysics">Minute Physics</a></name> - Minute Physics, as its name implies, is a channel of approximately 1 minute videos about physics topics. They are very well scripted and succinct and are generally very light on math and heavy on concept. In particular, I recommend the video on <a href="https://www.youtube.com/watch?v=hFAOXdXZ5TM">sources of magnetism</a> which is one of the best explanations of a very complicated phenomenon.
+</div>
+
+
+
+
+
+
+
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

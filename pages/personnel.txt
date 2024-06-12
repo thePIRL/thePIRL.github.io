@@ -1,0 +1,91 @@
+
+<head>
+<title>thePIRL - Personnel</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<--! NAVIGATION MARKER -->
+
+
+<div id="homecontent"><h1>Faculty</h1></div>
+
+<div id="person">
+<img src='photos/thomen.png'  width=150px>
+<h1>Robby Thomen PhD</h1>
+<h2>Assistant Professor</h2>
+<h2>Radiology, BioEngineering</h2>
+<h2>&#9820 Radiology M210P</h2>
+<h2>&#9993; One Hospital Drive, DC069.10, Columbia MO, 65202</h2>
+<h2>&#9742; (573) 882-1026</h2>
+<h2>&#9000; <a href="mailto:thomenr@health.missouri.edu">thomenr@health.missouri.edu</a></h2>
+<p>Dr Thomen received his doctorate in physics from Washington University in St Louis, and completed his postdoc in pulmonary imaging at Cincinnati Children's Hospital - both under the direction of Dr Jason Woods. His research interests include novel applications of medical imaging technology to improving the clinical standard of care. In particular, his work has focused on hyperpolarized gas MRI of lungs - a method of obtaining a complete map of lung function (ventilation, gas-exchange, perfusion) in a single breathold via MRI. Students interested in getting involved should reach out via email.</p>
+</div>
+
+<div id="person">
+<img src='photos/altes.png'  width=150px>
+<h1>Talissa Altes, MD</h1>
+<h2>Professor</h2>
+<h2>Chair, Radiology</h2>
+<p>Dr Altes is the Chair of the Department of Radiology at MU, a pediatric radiologist, and lung imaging researcher. Prior to joining MU while she was at the University of Virginia (UVA) and became involved in lung imaging research using hyperpolarized gas as a non-toxic, non-radioactive inhaled contrast agent for MRI. Together with John Mugler, PhD and Eduard de Lange, MD, Dr Altes built a very strong hyperpolarized gas MRI research program. She pioneered the application of this technique in a variety of lung diseases including asthma, cystic fibrosis (CF), and bronchopulmonary dysplasia (also known as chronic lung disease of prematurity). The lab performed hyperpolarized gas MRI in more human subjects than any other site, and UVA is considered one of the preeminent sites for hyperpolarized gas MRI. Her background in engineering has enabled her to work closely with the MRI physicists and gives her a depth of understanding of their work.</p>
+</div>
+
+
+
+<p></p>
+
+
+
+<div id="homecontent"><h1>Staff</h1></div>
+
+<div id="person">
+<img src='photos/cassani.png'  width=150px>
+<h1>Joanne Cassani, RN</h1>
+<h2>Director of Research Operations and Planning</h2>
+<h2>Radiology</h2>
+<p>Joanne is the master of organizing, planning, recruiting for, operationalizing, and record keeping for our research studies and clinical trials. If there is a question regarding the logistics of our work, she is the person to ask. She also oversees recruitment for our studies, so if you're interested in participating as a volunteer for our research, <a href="mailto:cassanij@missouri.edu">email her</a>! </p><br><br><br><br><br><br><br>
+</div>
+
+
+<div id="homecontent"><h1>Students</h1></div>
+<div id="person">
+<img src='photos/afia.jpg'  width=150px>
+<h1>Afia Shammi</h1>
+<h2>Graduate Student, BioEngineering</h2>
+<h2>School of Engineering</h2>
+
+<h2>&#9000; <a href="mailto:ushammi@mail.missouri.edu">ushammi@mail.missouri.edu</a></h2>
+<p>Afia completed her Bachelor of Science in Electrical and Electronic Engineering from the University of Dhaka in 2016.  She received her Master of Science from the same university in Communication and Signal Processing in 2018. 
+At present, she is a Ph.D. Candidate in the Department of Bioengineering at the University of Missouri. She is working on the Coulter-funded "Heartspeed" project and hyperpolarized gas MRI of lungs.</p><br><br><br><br><br><br>
+</div>
+
+<div id="person">
+<img src='photos/koch.jpeg'  width=150px>
+<h1>Michelle Koch</h1>
+<h2>Medical Student (M2)</h2>
+<h2>School of Medicine</h2>
+
+<h2>&#9000; <a href="mailto:mfkbq6@health.missouri.edu">mfkbq6@health.missouri.edu</a></h2>
+<p>Michelle (Shelly) Koch is a second year medical student at University of Missouri School of Medicine. She completed her undergraduate degree in Spanish at Washington University in St. Louis.  She began working with the Pulmonary Imaging Research Laboratory through the Summer Research Fellowship through MU working on analysis of hyperpolarized gas MR images. She is interested in pulmonary medicine and global health.</p><br>
+</div>
+
+
+<div id="person">
+<img src='photos/JD.JPG'  width=150px>
+<h1>JD Peiffer</h1>
+<h2>Sophomore</h2>
+<h2>BioEngineering</h2>
+
+<h2>&#9000; <a href="mailto:jdp6n8@mail.missouri.edu">jdp6n8@mail.missouri.edu</a></h2>
+<p></p>
+</div>
+</div>
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>

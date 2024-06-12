@@ -1,0 +1,1 @@
+\\umh.edu\mydocs\t\thomenr\R\R-3.4.2\bin\Rscript.exe "C:\Users\thomenr\Box Sync\businesstoday\COMPILE.R"

@@ -1,0 +1,60 @@
+<html>
+
+<head>
+<title>thePIRL</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+
+<body>
+
+<--! NAVIGATION MARKER -->
+
+<div id="homecontent">
+<h1>Welcome</h1>
+<p>Welcome to the homepage for the Mizzou Pulmonary Imaging Research Lab! Here you can learn about our research and become familiar with our goals, methods, and discoveries. The research interests of the group involve investigation of pulmonary structure-function relationships using various medical imaging modalities such as CT, proton MRI, and hyperpolarized noble gas MRI of the lung. These studies are imperative to understanding how lung architecture relates to pulmonary ventilation and gas-exchange, and are also necessary for furthering development of treatments for various pulmonary abnormalities such as asthma, COPD, cystic fibrosis, bronchiolitic obliterans, and others.</p>
+<P align="center"><b>Imaging the Lungs with Hyperpolarized Gases</b></p>
+
+<p align="center"><img src="photos/13.jpg" width=700px>
+
+<h3><a href="mailto:thomenr@health.missouri.edu">Interested in getting involved in the medical imaging research lab? <br /><u>Click Here</u></a></h3>
+
+<h1>News</h1>
+<div id="news"><date> October 18, 2019: </date> JD Peiffer and Afia Shammi present their work as rapid fire abstracts at the International Workshop on Pulmonary Functional Imaging in New Orleans, LA. <i>Congratulations to JD for winning best abstract!</i></div>
+<p></p>
+<div id="news"><date> February 28, 2019:</date> Afia Shammi presents work from UVa and thePIRL at the UPenn Pulmonary Imaging Conference in Philadelphia</div>
+<p></p>
+<div id="news"><date> January 23-25, 2019:</date> Dr Thomen presents the University of Missouri update in hyperpolarized gas MRI at the Clinical Trials Consortium Meeting in Miami, FL.</div>
+<p></p>
+<div id="news"><date> October 20, 2018:</date> Colleagues from <a href="https://cpir.cchmc.org/">Cincinnati Children's</a> will be presenting work on diffusion MRI at the <a href="https://www.nacfconference.org/">North American Cystic Fibrosis Conference</a> in Denver.</div>
+<p></p>
+<div id="news"><date> June 20, 2018:</date> <b>Congratulations</b> to <a href="https://biochem.missouri.edu/faculty/faculty-members/vandorens/index.php">Dr Steve Van Doren</a> for his recently funded Coulter project!
+<p></p>
+<div id="news"><date> June 21, 2018:</date> International Society for Magnetic Resonance in Medicine poster presentation in Paris.</div>
+<p></p>
+<div id="news"><date> May 23, 2018:</date> American Thoracic Society poster presentation in San Diego.</div>
+<p></p>
+<div id="news"><date> April 25, 2018:</date> Congratulations to Shelly Koch on her 2018 Summer Research Fellowship Award!</div>
+<p></p>
+<div id="news"><date> January 19, 2018:</date> Third Annual <a href="https://cpir.cchmc.org/XeMRICTC"><sup>129</sup>Xe Clinical Trials Consortium</a> Meeting in Miami, Fl.</div>
+<p></p>
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+<div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>
+

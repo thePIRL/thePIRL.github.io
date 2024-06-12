@@ -1,0 +1,70 @@
+
+<head>
+<title>thePIRL - Gallery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<link rel="icon" type="image/png" href="spin.png">
+</head>
+<--! NAVIGATION MARKER -->
+
+<div id="gallery">
+
+<h1>Gallery</h1>
+
+<a name="10">
+<h2>UPenn Pulmonary Imaging Meeting, February 2019</h2>
+<img src="photos/9.jpg", width = 500px>
+<img src="photos/10.jpg", width = 500px>
+<img src="photos/11.jpg", width = 500px>
+<img src="photos/12.jpg", width = 500px>
+
+<a name="9">
+<h2>thePIRL Group Photo 2019</h2>
+<img src="photos/13.jpg", width = 500px>
+
+<a name="8">
+<h2>Health Sciences Research Day 2018</h2>
+<img src="photos/8.jpg", width = 500px>
+
+<a name="7">
+<h2>Coulter Program Awards 2018</h2>
+<img src="photos/7.jpg", width = 500px>
+
+<a name="6">
+<h2>Honduras Mission Trip 2018</h2>
+<img src="photos/6.jpg", width = 500px>
+
+<a name="5">
+<h2>ISMRM 2018, Paris, France</h2>
+<img src="photos/5.jpg", width = 500px>
+
+<a name="4">
+<h2>ATS 2018, San Diego</h2>
+<img src="photos/4.jpg", width = 500px>
+
+<a name="3">
+<h2>RSNA 2017, Chicago</h2>
+<img src="photos/3.jpg", width = 500px>
+
+<a name="2">
+<h2>Cincinnati Children's Shuttle Ride, 2017</h2>
+<img src="photos/2.jpg", width = 500px>
+
+
+</div>
+
+<p></p>
+
+
+
+
+
+
+
+
+  <div id="copyright">
+   Copyright &copy; 2018 - All Rights Reserved - <a href="#">Thomen Lab</a>
+  </div>
+
+</body>
+</html>
