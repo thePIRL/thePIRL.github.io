@@ -1,12 +1,12 @@
 print(getwd())
 
-file="C:\\Users\\thomenr\\Box Sync\\businesstoday\\navside.txt"
+file="C:\\thePIRL.github.io\\navside.txt"
 con = file(file,open='r')
 NAV = readLines(con)
 close(con)
 
 
-folder = "C:\\Users\\thomenr\\Box Sync\\businesstoday\\"
+folder = "C:\\thePIRL.github.io\\"
 pages = dir(paste(folder,'pages\\',sep=''))
 
 
@@ -19,12 +19,12 @@ close(con)
 marker=1
 newFileLine = ''
 for(i in 1:length(line)){
-print(i)
+#print(paste0(i,'/',length(line)))
 if(grepl('<--! NAVIGATION MARKER -->',line[i])){for(k in 1:(length(NAV)-1)){newFileLine[marker] = NAV[k];marker=marker+1;}}
 else{newFileLine[marker] = line[i];marker=marker+1;}
 
 }
-
+print(file)
 fileConn<-file(paste(folder,substring(pages[kk],1,nchar(pages[kk])-4),'.html',sep=''))
 writeLines(newFileLine, fileConn)
 close(fileConn)
