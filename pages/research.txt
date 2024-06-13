@@ -20,8 +20,8 @@ Students interested in PIRL research can hone their interests in a broad range o
 <h2>MRI</h2>
 <p>Magnetic Resonance Imaging (MRI) is a foundational modality for our research since the interest of the group involves non-invasive imaging of lungs (as opposed to CT which involves ionizing radiation). MRI is a fantastically elegant imaging modality which takes advantage of the quantum mechanical 'spin' of nuclei and its behavior in magnetic fields to produce 3D tomographic images of tissue <i>in vivo</i>. Every student in the PIRL must be familiar with basic NMR theory and pulse sequences. </p>
 
-<p align="center"><iframe width="300" height="168" src="https://www.youtube.com/embed/TQegSF4ZiIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe width="300" height="168" src="https://www.youtube.com/embed/M7yh0To6Wbs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
-<p align="center"><iframe width="300" height="168" src="https://www.youtube.com/embed/R_4GuyJTzMo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe width="300" height="168" src="https://www.youtube.com/embed/vapJRr6gAds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500" height="240" src="https://www.youtube.com/embed/TQegSF4ZiIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  <iframe width="500" height="240" src="https://www.youtube.com/embed/M7yh0To6Wbs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="500" height="240" src="https://www.youtube.com/embed/R_4GuyJTzMo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  <iframe width="500" height="240" src="https://www.youtube.com/embed/vapJRr6gAds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 
 <h2>Hyperpolarized Gas MRI</h2>
