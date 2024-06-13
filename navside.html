@@ -36,6 +36,40 @@
         <!-- Video thumbnails will be inserted here by JavaScript -->
     </div>
 
+    
+<br>
+<h1>Adventures</h1>
+<div class="w3-content w3-section" style="max-width:500px"><a href="gallery.html">
+  <img class="mySlides" src="photos/2.jpg" style="height:200px">
+  <img class="mySlides" src="photos/3.jpg" style="height:200px">
+  <img class="mySlides" src="photos/4.jpg" style="height:200px">
+  <img class="mySlides" src="photos/5.jpg" style="height:200px">
+  <img class="mySlides" src="photos/6.jpg" style="height:200px">
+  <img class="mySlides" src="photos/7.jpg" style="height:200px">
+  <img class="mySlides" src="photos/8.jpg" style="height:200px">
+  <img class="mySlides" src="photos/9.jpg" style="height:200px">
+  <img class="mySlides" src="photos/10.jpg" style="height:200px">
+  <img class="mySlides" src="photos/11.jpg" style="height:200px">
+  <img class="mySlides" src="photos/12.jpg" style="height:200px">
+  <img class="mySlides" src="photos/13.jpg" style="height:200px">
+</a></div>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    myIndex = Math.floor(Math.random() * x.length) + 1;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4000); // Change image every 2 seconds
+}
+</script>
+
     <h1>Recommended Article</h1>
     <div id="adContainer" class="w3-content w3-section" style="max-width:500px"></div>
 
